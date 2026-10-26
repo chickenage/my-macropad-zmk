@@ -1,1 +1,4 @@
-
+if SHIELD_MACROPAD
+config ZMK_KEYBOARD_NAME
+    default "4-Key Macropad"
+endif
