@@ -1,1 +1,8 @@
-
+file_format: "1"
+id: macropad
+name: 4-Key Macropad
+type: shield
+url: https://github.com/your-username/my-macropad-zmk
+requires: [pro_micro]
+features:
+  - keys
