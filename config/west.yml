@@ -1,7 +1,1 @@
-manifest:
-  remotes:
-    - name: zmkfirmware
-      url-base: https://github.com/zmkfirmware
-    - name: bluedrink9
-      url-base: https://github.com/bluedrink9
 
