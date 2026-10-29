@@ -30,8 +30,3 @@
         layer2_led: layer2_led { gpios = <&pro_micro 10 GPIO_ACTIVE_HIGH>; };
     };
 };
-/ {
-    aliases {
-        indicator-led = &blue_led;
-    };
-};
