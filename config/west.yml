@@ -10,6 +10,10 @@ manifest:
       remote: zmkfirmware
       revision: main
       import: app/west.yml
+      self:
+        path: config
     - name: zmk-poor-mans-led-indicator
       remote: bluedrink9
       revision: main
+      self:
+        path: config
