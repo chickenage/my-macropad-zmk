@@ -15,5 +15,3 @@ manifest:
     - name: zmk-poor-mans-led-indicator
       remote: bluedrink9
       revision: main
-      self:
-        path: config
