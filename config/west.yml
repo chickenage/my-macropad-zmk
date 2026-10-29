@@ -5,11 +5,3 @@ manifest:
     - name: bluedrink9
       url-base: https://github.com/bluedrink9
 
-  projects:
-    - name: zmk
-      remote: zmkfirmware
-      revision: main
-      import: app/west.yml
-    - name: zmk-poor-mans-led-indicator
-      remote: bluedrink9
-      revision: main
